@@ -163,8 +163,8 @@ elif opcao == 0:
 
 else:
     ### O 'else' final pega qualquer número que não esteja nas opções acima
-    # Por exemplo, se o usuário digitar 99, ele cai aqui.
+    ### Se o usuário digitar 99, aparece esta mensagem
     print("\nOpção Inválida! Por favor, da próxima vez escolha um número entre 0 e 13.")
 
-# Fim do programa
+### Fim do programa
 print("Fim do superprograma, espero que tenha te ajudado! :)")
